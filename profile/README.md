@@ -16,7 +16,7 @@
   <br />
   
   <div>
-    <a href="https://discord.com/api/guilds/1246506399450796063/widget.json">Discord</a>
+    <a href="https://discord.gg/qUNxRmKm">Discord</a>
     |
     <a href="mailto:qudwns8865@naver.com">Email</a>
   </div>
